@@ -1,0 +1,4 @@
+module Colorist
+  # colorist version
+  VERSION = "0.1.0"
+end
